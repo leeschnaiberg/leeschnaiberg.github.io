@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: LEE SCHNAIBERG ART
 email: ""
-description: "Photo Journal"
+description: "Lee Schnaiberg Art"
 url: "https://andiejs.github.io"
 baseurl: "/test_website"
 facebook_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Lee Schnaiberg
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/test_website/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/test_website/journal/"
-  - ABOUT: "https://sunbliss.github.io/test_website/about/"
+  - GALLERY: "https://andiejs.github.io/test_website/gallery/"  
+  - JOURNAL: "https://andiejs.github.io/test_website/journal/"
+  - ABOUT: "https://andiejs.github.io/test_website/about/"
 
 # All translation keys
 translations:
