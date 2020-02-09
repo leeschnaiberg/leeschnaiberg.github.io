@@ -36,7 +36,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://andiejs.github.io/test_website/gallery/"  
-  - JOURNAL: "https://andiejs.github.io/test_website/journal/"
+ # - JOURNAL: "https://andiejs.github.io/test_website/journal/"
   - ABOUT: "https://andiejs.github.io/test_website/about/"
 
 # All translation keys
