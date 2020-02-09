@@ -145,6 +145,14 @@ color:#dddddd; target="_blank" title="Github">
                      </span>
                    {% endif %}
 <li>
+                    {% if site.reddit_username %}
+                <li>
+   <a href="https://reddit.com/{{ site.reddit_username }}" style="
+color:#dddddd; target="_blank" title="Reddit">
+              <i class="fa fa-reddit"></i>
+                     </span>
+                   {% endif %}
+<li>
     <a href="mailto:{{ site.email }}" style="
 color:#dddddd; target="_blank" title="Email">
               <i class="fa fa-envelope-o"></i></span>
