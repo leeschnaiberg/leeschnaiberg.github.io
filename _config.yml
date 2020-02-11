@@ -14,13 +14,14 @@ redbubble_username: "sznajberg/shop"
 #flickr_username: ""
 #discus_shortname: ""
 share: true
+youtube: "https://www.youtube.com/playlist?list=PLocjqVlIiX3t-1_DsTEnrSnz8U-zbiURl"
 
 # Owner/author information
 owner:
   name:   Lee Schnaiberg
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
