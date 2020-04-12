@@ -3,7 +3,7 @@ title: LEE SCHNAIBERG ART
 email: "leeschnaiberg@gmail.com"
 description: "Lee Schnaiberg Art"
 url: "https://leeschnaiberg.github.io"
-baseurl: "/leeschnaiberg"
+baseurl: ""
 facebook_username: "LespaceEntreTheSpaceInBetween"
 #twitter_username: ""
 instagram_username: "lespaceentre"
@@ -36,9 +36,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://leeschnaiberg.github.io/leeschnaiberg/gallery/"  
- # - JOURNAL: "https://leeschnaiberg.github.io/leeschnaberg/journal/"
-  - ABOUT: "https://leeschnaiberg.github.io/leeschnaiberg/about/"
+  - GALLERY: "https://leeschnaiberg.github.io/gallery/"  
+ # - JOURNAL: "https://leeschnaiberg.github.io/journal/"
+  - ABOUT: "https://leeschnaiberg.github.io/about/"
 
 # All translation keys
 translations:
