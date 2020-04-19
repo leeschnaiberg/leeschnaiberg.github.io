@@ -1,0 +1,14 @@
+* a gallery is a folder containing images and an index.html file. this is an example. you can make some galleries and email or dropbox them to me and i'll put them on the website. 
+
+* the images should be as small as possible (only as large as you expect them to be seen on a screen). the image filenames should not contain spaces. safest is only letters, numbers, and _.
+
+* copy the example index.html file and modify it. open the index.html file in a text editor to view and edit it (computer will want to open in browser). modify only the first half of the index.html file (the part between --- ---) to define the gallery
+
+** you can modify the title, description, header-img, and album title.
+
+** give a list of the images, in order. each image has an image_path, caption, and copyright
+
+*** the image path should be /gallery/folder_name/filename.jpg
+
+**** the word gallery does not change.
+**** the word folder_name changes depending on the name you gave the gallery folder
