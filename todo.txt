@@ -2,3 +2,9 @@
 - speed up load by kloodging bg img?
 
 https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5
+
+
+to add metadata:
+
+exiftool -overwrite_original -rights="Copyright Lee Schnaiberg 2020" -CopyrightNotice="Copyright Lee Schnaiberg 2020" .
+
