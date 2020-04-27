@@ -29,48 +29,26 @@ images:
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
 				
-<!--{% for image in page.images %}  	-->
+{% for image in page.images %}  	
 
 	               <figure class="gallery-item">
                          <figure class="effect-selena">
 					<header class='gallery-icon'>
 		       
-<a href="{{ site.url }}{{ site.baseurl }}/gallery/enter_tsib/">
-<img src="{{ site.url }}{{ site.baseurl }}/gallery/tsib1/9.jpg"></a>
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
 
 					</header>	
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary">
-							<h3>TSIB</h3>
+							<h3>{{image.gallery-name}}</h3>
+							<p>{{image.gallery-date}}</p>
 						</div>
 					</figcaption>
                        </figure>
 				</figure>
-
-
-
-
-
-	               <figure class="gallery-item">
-                         <figure class="effect-selena">
-					<header class='gallery-icon'>
-		       
-<a href="{{ site.url }}{{ site.baseurl }}/gallery/enter_wiggle/">
-<img src="{{ site.url }}{{ site.baseurl }}/gallery/wiggle1/5.jpg"></a>
-
-					</header>	
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary">
-							<h3>Jittorama</h3>
-				
-						</div>
-					</figcaption>
-                       </figure>
-				</figure>
-			
-
-		       
-<!--{% endfor %}	-->	
+							
+{% endfor %}		
 				
 			</div>
 			
