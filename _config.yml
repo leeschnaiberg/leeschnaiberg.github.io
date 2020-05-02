@@ -52,6 +52,7 @@ port:             	 4000
 
 
 # Build settings
+encoding: UTF-8
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
