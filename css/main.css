@@ -23,7 +23,8 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #760824;
+/*  color: #760824; */
+  color: #96092d;
   transition: color .4s;
   text-decorarion: none;
 }
