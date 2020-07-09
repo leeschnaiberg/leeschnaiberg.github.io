@@ -66,7 +66,7 @@
 .fullscreen-gallery .gallery-caption h3 { font-size: 1.15em; margin-bottom: .3em; text-transform: none; }
 
 .fullscreen-gallery.kenburns-gallery .gallery-icon { display: none; }
-.fullscreen-gallery.kenburns-gallery canvas { z-index: -1; position: absolute; left: 0; top: 0; background-image : url("/img/slider/home02.jpg");}
+.fullscreen-gallery.kenburns-gallery canvas { z-index: -1; position: absolute; left: 0; top: 0; background-image : url("/img/slider/home01.jpg");}
 
 iframe#okplayer { min-width: 100%; min-height: 100%; }
 
