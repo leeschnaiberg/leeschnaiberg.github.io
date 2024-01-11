@@ -36,6 +36,7 @@ comments :
 
 # Internal nav
 nav:
+  - BLOG:    "blog.leeschnaiberg.com"
   - GALLERY: "https://leeschnaiberg.github.io/gallery/"
   - VIDEO: "https://leeschnaiberg.github.io/video/"	
  # - JOURNAL: "https://leeschnaiberg.github.io/journal/"
